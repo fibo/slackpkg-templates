@@ -1,0 +1,4 @@
+cmake
+lzo
+libxml2
+nettle
