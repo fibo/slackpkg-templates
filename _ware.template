@@ -1,0 +1,4 @@
+#include boot.template
+#include login.template
+#include net.template
+#include slackpkg.template
