@@ -1,4 +1,4 @@
-#include pkgtools
+#include pkgtools.templates
 bzip2
 diffutils
 file

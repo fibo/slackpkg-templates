@@ -1,4 +1,4 @@
-#include cmake
+#include cmake.template
 make
 slacktrack
 patch
