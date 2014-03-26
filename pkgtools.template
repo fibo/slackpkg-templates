@@ -1,0 +1,10 @@
+pkgtools
+tar
+coreutils
+dialog
+xz
+ncurses
+util-linux
+grep
+sed
+gzip
