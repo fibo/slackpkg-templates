@@ -1,2 +1,3 @@
-#include login.template
 #include slackpkg.template
+#include net.template
+#include nano
