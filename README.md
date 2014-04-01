@@ -4,7 +4,8 @@ slackpkg-templates
 # Motivation
 
 Slackware is great! Vanilla philosophy always wins.
-using slackpkg templates features to manage dependencies could save a lot of time when installing software.
+
+Using [slackpkg](http://www.slackpkg.org/) templates features to manage dependencies could save a lot of time when installing software.
 
 # Installation
 
@@ -23,4 +24,3 @@ To install software *foo* use `slackpkg` as usual
 ```bash
 $ slackpkg install-template foo
 ```
-
